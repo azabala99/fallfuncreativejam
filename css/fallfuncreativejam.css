@@ -1,0 +1,41 @@
+p{color:floralwhite;}
+li{color:floralwhite}
+h2{color:floralwhite}
+body{background-color:black;}
+    .container{
+        display:flex;
+        align-items: center;
+    }
+    
+    .text{
+        flex:1;
+    }
+    
+    header{
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    footer{
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .image{
+        margin-left: 20px;
+        margin-right: 90px;
+        padding: 20px;
+    }
+    
+    img{
+        float:right;
+    }
+    
+    .margin{
+        margin-left: 20px
+    }
+    
+    p, h1, h2, ul, li{
+        margin:0;
+        font-family: fantasy;
+    }
